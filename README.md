@@ -1,5 +1,8 @@
 ### OCTOBER 2022 VERSION 0.1
-Workshop ID: 2942453964
+(https://steamcommunity.com/profiles/76561198121354415/myworkshopfiles/)
+
+https://qrco.de/bdlhFI
+
 added basic rules for game.
 still thinking about teams balancing, esp. biggurls and star skaters.
 
