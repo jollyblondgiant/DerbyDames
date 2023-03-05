@@ -1,4 +1,5 @@
 ### OCTOBER 2022 VERSION 0.1
+Workshop ID: 2942453964
 added basic rules for game.
 still thinking about teams balancing, esp. biggurls and star skaters.
 
