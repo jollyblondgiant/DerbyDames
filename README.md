@@ -2,6 +2,8 @@
 added basic rules for game.
 still thinking about teams balancing, esp. biggurls and star skaters.
 
+BRAWLER DERBY
+
 ## lore ideas:
 	
 # Goblins: Shredders of Rad Canyon
