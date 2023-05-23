@@ -73,7 +73,7 @@ A skater may move up to their movement. a skater does not have to move
     any other action, she cannot resume the rest of that movement.
 
 Once a skater has moved up to her movement value, she may attempt a 
-    SPRINT to move her movement value again, BLOCK an opoonent, or 
+    SPRINT to move +D6 inches, BLOCK an opoonent, or 
     ASSIST a teammate.
 
 A star skater may execute her special move at any point during her
