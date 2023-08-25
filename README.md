@@ -1,8 +1,7 @@
-### ApoGenius Ludi Presents:
+ApoGenius Ludi Presents:
 
 
 # Brawler Derby: Danger Divas!
-
 
 ## The 28mm TableTop Roller-Derby Game!
 
