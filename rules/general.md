@@ -118,11 +118,14 @@ A FALLEN skater may take no action besides RECOVER, cannot move except
     to stand up, and does not contribute to her teammates' GUTS when 
     they attempt a BLOCK.
 
+It costs half a skater's movement to STAND UP.
+
+**OPTIONAL: FAINT TESTS**
 To STAND UP, a skater must make a FAINT TEST: 
 
 roll a D6 and subtracts her remaining blood; if her total is five or more, 
     she faints, cannot recover, and is removed from the game.
-
+****
 ## SCORING POINTS
 when one player's JAMMER has moved within three inches of each gate 
     in counterclockwise  order from the first to the fourth and
